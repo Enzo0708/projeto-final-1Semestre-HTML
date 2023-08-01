@@ -1,0 +1,62 @@
+body {
+    background-color: #000;
+    color: #000000;
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    color: #000000;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+  }
+  
+  .caixa {
+    margin-bottom: 20px;
+  }
+  
+  .caixa label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .caixa input {
+    width: 370px;
+    padding: 10px;
+    border: solid #a19ba3;
+    border-radius: 5px;
+  }
+  
+  .topCaixa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #D355FF;
+    margin-bottom: 10px;
+    width: 400px;
+    height: 50px;
+    font-size: 20px;
+  }
+  
+  .but1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  }
+  
+  .but{
+  background-color: #D355FF;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  height: 30px;
+  }
